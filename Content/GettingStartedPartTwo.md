@@ -1,16 +1,16 @@
 # Getting Started Part Two
 
-### Part Two: Run Web Browser
+### 第二部分: 运行网络浏览器
 
-To launch your Web browser, find the desktop shortcut icon for Sandboxed Web Browser and click it:
+若要启动 Web 浏览器，请找到沙盒 Web 浏览器的桌面快捷方式图标（标题一般为“浏览器（沙盒）”，图中为英文版），然后单击它：
 
 ![](../Media/SandboxedWebBrowserIcon.png)
 
-Alternatively, right-click the [Sandboxie Control](SandboxieControl.md) tray icon, and navigate the popup [Tray Icon Menu](TrayIconMenu.md) to select the _Run Web Browser_ action.
+或者，鼠标右键单击 [Sandboxie Control](SandboxieControl.md) 托盘图标, 在弹出的 [托盘图标界面](TrayIconMenu.md) 中选择 _启动网络浏览器_ 菜单.
 
 ![](../Media/TrayPopupMenu.png)
 
-A third option is via the [Sandbox Menu](SandboxMenu.md) in the main window of Sandboxie Control:
+第三种方式是通过在 [Sandboxie Control](SandboxieControl.md) 中的 [沙盒菜单](SandboxMenu.md) 启动：
 
 ![](../Media/SandboxMenu.png)
 
