@@ -2,7 +2,7 @@
 
 ### Part Two: Run Web Browser
 
-To launch your Web browser, find the desktop shortcut icon for Sandboxed Web Browser and click it:
+为了在沙盒内启动你的网络浏览器，请在桌面上找到浏览器（沙盒化）的快捷方式:
 
 ![](../Media/SandboxedWebBrowserIcon.png)
 
