@@ -4,9 +4,9 @@
 
 要启动你的网络浏览器，请在桌面上找到它的快捷方式：
 
-![](../Media/SandboxedWebBrowserIconInPlus.png)
+![image](https://github.com/RimacC2-EV/sandboxie-docs/assets/125170682/724de545-50b5-4d2a-b19b-bc532889cdc3)
 
-Alternatively, right-click the [Sandboxie Control](SandboxieControl.md) tray icon, and navigate the popup [Tray Icon Menu](TrayIconMenu.md) to select the _Run Web Browser_ action.
+或者，右键单击 [Sandboxie Control](SandboxieControl.md) 托盘图标, 导航到 [托盘图标界面](TrayIconMenu.md) 并选择 _运行默认浏览器_ 选项。
 
 ![](../Media/TrayPopupMenu.png)
 
