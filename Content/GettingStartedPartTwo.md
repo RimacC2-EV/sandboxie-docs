@@ -2,9 +2,9 @@
 
 ### Part Two: Run Web Browser
 
-To launch your Web browser, find the desktop shortcut icon for Sandboxed Web Browser and click it:
+要启动你的网络浏览器，请在桌面上找到它的快捷方式：
 
-![](../Media/SandboxedWebBrowserIcon.png)
+![](../Media/SandboxedWebBrowserIconInPlus.png)
 
 Alternatively, right-click the [Sandboxie Control](SandboxieControl.md) tray icon, and navigate the popup [Tray Icon Menu](TrayIconMenu.md) to select the _Run Web Browser_ action.
 
