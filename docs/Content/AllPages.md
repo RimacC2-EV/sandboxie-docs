@@ -98,6 +98,8 @@
 
 [Cover Boxed Windows](CoverBoxedWindows.md)
 
+[Custom Locale/LangID](CustomLCID.md)
+
 ### D
 
 [Delete Command](DeleteCommand.md)
@@ -135,6 +137,8 @@
 [External Tutorials](ExternalTutorials.md)
 
 ### F
+
+[Fake Admin Rights](FakeAdminRights.md)
 
 [FAQ Email](FAQEmail.md)
 
@@ -186,11 +190,21 @@
 
 [Help Topics](HelpTopics.md)
 
+[Hide Disk Serial Number](HideDiskSerialNumber.md)
+
+[Hide Firmware Info](HideFirmwareInfo.md)
+
 [Hide Host Process](HideHostProcess.md)
 
 [Hide Message](SbieCtrl_HideMessage.md)
 
+[Hide Network Adapter MAC Address](HideNetworkAdapterMAC.md)
+
+[Hide Non System Processes](HideNonSystemProcesses.md)
+
 [Hide Other Boxes](HideOtherBoxes.md)
+
+[Hide Sandboxie Processes](HideSbieProcesses.md)
 
 [How It Works](HowitWorks.md)
 
@@ -237,6 +251,8 @@
 [Msi Installer Exemptions](MsiInstallerExemptions.md)
 
 ### N
+
+[Network Dns Filter](NetworkDnsFilter.md)
 
 [Never Delete](NeverDelete.md)
 
@@ -314,6 +330,8 @@
 
 [Prompt For File Migration](PromptForFileMigration.md)
 
+[Prompt On Secure Desktop](PromptOnSecureDesktop.md)
+
 [Protect Host Images](ProtectHostImages.md)
 
 [Protected Storage](ProtectedStorage.md)
@@ -327,6 +345,8 @@
 ### R
 
 [RAM Disk Support](../PlusContent/RamDiskSupport.md)
+
+[Random Registry UID](RandomRegUID.md)
 
 [Ransomware](Ransomware.md)
 
@@ -691,6 +711,8 @@
 [Use Privacy Mode](UsePrivacyMode.md)
 
 [Use Rule Specificity](UseRuleSpecificity.md)
+
+[Use Sandboxie UAC](UseSandboxieUAC.md)
 
 [Use SbieDesk Hack](UseSbieDeskHack.md)
 
