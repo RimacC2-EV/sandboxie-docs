@@ -63,7 +63,7 @@ BindAdapterIP=chrome.exe,10.0.0.50
 ```
 
 ```ini
-[DefaultBox]  
+[DefaultBox]
 BindAdapter=torrent.exe,VPN Connection
 ```
 
@@ -84,7 +84,7 @@ BindAdapter=program3.exe,Ethernet 2
 >
 > **优先级系统:** 多个条目遵循“最具体者获胜”的政策：
 > - 精确程序名称匹配（例如，`BindAdapter=chrome.exe,Ethernet`）具有最高优先级
-> - 否定匹配（例如，`BindAdapter=!firefox.exe,Wi-Fi`）具有中等优先级  
+> - 否定匹配（例如，`BindAdapter=!firefox.exe,Wi-Fi`）具有中等优先级
 > - 全局匹配（例如，`BindAdapter=Ethernet`）具有最低优先级
 > - 仅使用最具体的匹配条目；其他条目被忽略
 >

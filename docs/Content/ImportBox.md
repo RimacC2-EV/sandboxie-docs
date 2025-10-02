@@ -45,8 +45,8 @@ Create a portable configuration file anywhere, for example `C:\Sandboxes\Browser
 Enabled=y
 ```
 
-> **Important:**  
-> When importing a sandbox from an external INI file, the file must contain exactly one section, and that section’s name must match the filename (without the `.ini` extension).  
+> **Important:**
+> When importing a sandbox from an external INI file, the file must contain exactly one section, and that section’s name must match the filename (without the `.ini` extension).
 > If there are additional sections, or if the section name does not match the filename, the import will fail.
 
 Then import it into Sandboxie:
@@ -65,7 +65,7 @@ Instead of manually importing each specific sandbox, You can import all sandbox 
 ImportBox=C:\Sandboxes\*
 ```
 
-This imports all `.ini` files in the specified directory, making any sandboxes in that folder available for use. 
+This imports all `.ini` files in the specified directory, making any sandboxes in that folder available for use.
 
 ## User Interface
 
@@ -76,6 +76,3 @@ In **Sandboxie Plus**, you can manage ImportBox settings through:
 This interface lets you create new portable sandboxes, import existing sandbox files, or add directories as a sandbox root to automatically import sandboxes in those directories.
 
 ![ImportBox Configuration](../Media/ImportBox.png)
-
-
-

@@ -16,7 +16,7 @@ BoxAlias provides a way to set custom display names for sandboxes that contain s
 [MyTestBox]
 BoxAlias=Development & Testing
 
-[WebBox]  
+[WebBox]
 BoxAlias=Secure Web Browser v2.0
 
 [WorkSandbox]

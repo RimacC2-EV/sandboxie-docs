@@ -29,7 +29,7 @@ ForceProtectionOnMount=y
 
       ![Force Protection On Mount 2](../Media/UseFileImage8.png)
 
-    - forces `ui.chkAutoLock` (auto-unmount on last process stop) checked/disabled in the dialog.  
+    - forces `ui.chkAutoLock` (auto-unmount on last process stop) checked/disabled in the dialog.
 - On mount the service receives a mount request with the `protect_root` flag set; the mount manager and driver enforce protection.
 
 ## Technical notes / code references

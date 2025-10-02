@@ -29,7 +29,7 @@ Specifies which sandbox should be used for MOTW files. The default value is `Def
 The Mark of The Web (MOTW) is a security feature in Windows that marks files as having originated from the internet or other untrusted locations. Windows automatically applies this mark to:
 
 - Files downloaded from web browsers
-- Email attachments 
+- Email attachments
 - Files extracted from ZIP archives that were downloaded
 - Files received through instant messaging applications
 - Files copied from network shares marked as internet zones

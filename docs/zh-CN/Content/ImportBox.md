@@ -45,8 +45,8 @@ ImportBox=C:\Sandboxes\BrowserSandbox.ini
 Enabled=y
 ```
 
-> **重要:**  
-> 从外部 INI 文件导入沙箱时，该文件必须包含恰好一个 section，并且该部分的名称必须与文件名（不带 `.ini` 扩展名）匹配。  
+> **重要:**
+> 从外部 INI 文件导入沙箱时，该文件必须包含恰好一个 section，并且该部分的名称必须与文件名（不带 `.ini` 扩展名）匹配。
 > 如果有额外的 sections，或者 section 的名称与文件名不匹配，导入将失败。
 
 然后将其导入到 Sandboxie 中：

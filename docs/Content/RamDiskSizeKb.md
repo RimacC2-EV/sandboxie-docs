@@ -26,7 +26,7 @@ The RAM disk size setting can be set through:
 ## Important Notes
 
 - **Single RAM Disk**: Only one RAM disk will be created and used among all sandboxes that have the `UseRamDisk` setting enabled. This means that the specified size will be shared across all sandboxes utilizing RAM disks.
-  
+
 - **Memory Management**: Ensure that the specified size does not exceed the available system memory. Allocating too much memory for the RAM disk can lead to system instability or prevent other applications from functioning properly. If the specified size exceeds available RAM, the RAM disk may fail to mount, and an error will be logged.
 
 - **Volatile Storage**: The RAM disk is volatile, meaning all data stored in it will be lost when the RAM disk is unmounted or the system is restarted. It is ideal for temporary operations where data persistence is not required.
@@ -39,7 +39,7 @@ The RAM disk size setting can be set through:
 
 - **Speed**: RAM disks provide significantly faster read and write speeds compared to traditional disk storage, making them suitable for high-performance applications and testing environments.
 
-- **Resource Monitoring**: Monitor system memory usage when using RAM disks to avoid exceeding available memory and causing system performance issues. 
+- **Resource Monitoring**: Monitor system memory usage when using RAM disks to avoid exceeding available memory and causing system performance issues.
 
 - **Application Suitability**: Consider using RAM disks for applications that require high-speed data access, such as development environments, testing frameworks, or temporary file storage.
 

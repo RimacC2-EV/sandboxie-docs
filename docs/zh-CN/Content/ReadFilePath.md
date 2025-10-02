@@ -20,4 +20,3 @@ _ReadFilePath_ 是 [沙箱配置文件（Sandboxie Ini）](SandboxieIni.md) 中�
 相关的 [Sandboxie 经典版控制面板（Sandboxie Control）](SandboxieControl.md) 设置：[沙箱设置 > 资源访问 > 文件访问 > 只读访问](ResourceAccessSettings.md#file-access--read-only-access)
 
 相关的 Sandboxie Plus 设置：沙箱选项 > 资源访问 > 文件 > 添加文件/文件夹 > 访问列 > 只读
-

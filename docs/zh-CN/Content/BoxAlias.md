@@ -16,7 +16,7 @@ BoxAlias=显示名称
 [MyTestBox]
 BoxAlias=Development & Testing
 
-[WebBox]  
+[WebBox]
 BoxAlias=Secure Web Browser v2.0
 
 [WorkSandbox]

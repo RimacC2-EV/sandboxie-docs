@@ -63,7 +63,7 @@ BindAdapterIP=chrome.exe,10.0.0.50
 ```
 
 ```ini
-[DefaultBox]  
+[DefaultBox]
 BindAdapter=torrent.exe,VPN Connection
 ```
 
@@ -84,7 +84,7 @@ BindAdapter=program3.exe,Ethernet 2
 >
 > **Priority System:** Multiple entries follow a "most specific wins" policy:
 > - Exact program name match (e.g., `BindAdapter=chrome.exe,Ethernet`) has highest priority
-> - Negation match (e.g., `BindAdapter=!firefox.exe,Wi-Fi`) has medium priority  
+> - Negation match (e.g., `BindAdapter=!firefox.exe,Wi-Fi`) has medium priority
 > - Global match (e.g., `BindAdapter=Ethernet`) has lowest priority
 > - Only the most specific matching entry is used; others are ignored
 >

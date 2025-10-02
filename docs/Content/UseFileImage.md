@@ -88,9 +88,9 @@ When this setting is enabled, the Sandboxie service creates a virtual disk image
 3. Enter the **password** when prompted.
 
     ![Mount Box Image 2](../Media/UseFileImage6.png)
-    
+
     - (Optional) Enable `Protect Box Root from access by unsandboxed processes` to prevent unsandboxed programs from accessing the encrypted sandbox content.
-    
+
     - (Optional) Enable `Lock the box when all processes stop` to automatically unmount the image when the last sandboxed program terminates.
 
 > [!NOTE]
@@ -119,8 +119,8 @@ When this setting is enabled, the Sandboxie service creates a virtual disk image
   ```cmd
   # Backup header
   ImBox.exe type=image image="C:\Sandbox\DefaultBox.box" backup="C:\Sandbox\backup.hdr"
-  
-  # Restore header  
+
+  # Restore header
   ImBox.exe type=image image="C:\Sandbox\DefaultBox.box" restore="C:\Sandbox\backup.hdr"
   ```
 
